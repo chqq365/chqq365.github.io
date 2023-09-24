@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer-reviewed:
+## Peer-reviewed:
 1. Chen, Q., Wang, S., Borer, E.T., Bakker, J.D., Seabloom, E.W., Harpole, W., et al. (2023) Multidimensional responses of grassland stability under eutrophication (accepted; Nature communications); https://doi.org/10.1101/2023.04.16.537045
 2. Wilfahrt, P., Seabloom, E.W., Bakker, J.D., Biederman L., Bugalho, M.N., Cadotte, M.W., et al. (2023). Nothing lasts forever: dominant species decline under rapid environmental change in global grasslands. Journal of Ecology, https://doi.org/10.1111/1365-2745.14198 (I am the 8th author out of 40 authors in total) 
 3. Bakker, J.D., Price, J.N., Henning, J.A., Batzer, E.E., Ohlert, T.J., Wainwright, C.E., et al. (2023). Compositional variation in grassland plant communities. Ecosphere, 14, e4542. (I am the 18th author out of 53 authors in total) 
@@ -23,11 +23,11 @@ author_profile: true
 15. Chen, Q., Li, D; Yuan, X; Gen, S; Lai, S; Chen, H. et al. (2015) Identity Recognition of Plant Root System, Its Function and Mechanisms. Journal of Tropical and Subtropical Botany, 2015, 23: 474 - 478. (In Chinese with English abstract)
 16. Chen, Q., Li, D; Yuan, X; Gen, S; Lai, S; Chen, H. et al. (2015) Kin Recognition in Setaria italica and Its Relations with Plant Density and Soil Nutrient Level. Tropical and Subtropical Botany, 2015, 23: 559 - 566. (In Chinese with English abstract) 
 
-# Manuscripts under revision or review 
+## Manuscripts under revision or review 
 1. Chen, Q., Wang, S., Seabloom, E.W., Isbell, F., Borer, E.T., Bakker, J.D., et al. (2023) Nutrient addition increases grassland resistance during dry and wet climate extremes despite functional diversity loss (resubmission offered by Journal of Ecology); https://doi.org/10.1101/2022.09.16.508233 
 2. MacDougall, A., Esch, E., Chen, Q., Ohlert, T., Carrol, O., Bonner, C., et al. (2023) Long-term transformation of biomass in the grassland biome. (in review, nature ecology and evolution).
 
-# Manuscripts in preparation
+## Manuscripts in preparation
 1. Chen, Q., Blowes, S.A., Ladouceur, E., Harpole, W., Chase, J.M., et al. (2023) No evidence for homogenization or differentiation after long-term nutrient addition in global grasslands
 2. Chen, Q., Hautier. Y., et al. (2023) Plant diversity increases resistance during wet, but not dry, climate extremes under ambient and nutrient addition in natural grasslands
 3. Chen, Q., Borer, E.T., Seabloom, E.W., et al. (2023) Nitrogen addition may not impact aboveground biomass and species richness through soil PH 
