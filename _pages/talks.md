@@ -18,6 +18,18 @@ author_profile: true
 * 2017 Chen, Q., Olff, H; Smit, C. Genotype-based trait variation contributes to the clonal plant Elytrigia atherica population expansion, Netherlands Annual Ecology Meeting, Lunteren, the Netherlands.
 * 2016 Chen, Q., Elzenga, T; Olff, H; Smit, C. The role of intraspecific facilitation, genotypic diversity and ontogeny in plant colonization, Netherlands Annual Ecology Meeting, Lunteren, the Netherlands.
 
+## Workshops/other scientific activities
+* 12-16 September 2023 chair a session of traits and stability, The Ecological Society of Germany, Austria and Switzerland (GfÖ), Leipzig, Germany
+* July 2023 Nutrient Network meeting, presenting “Plant diversity increases resistance during wet, but not dry, climate extremes under ambient and nutrient addition in natural grasslands” 
+* July 2022 Nutrient Network meeting (virtual meeting), presenting “Linking functional traits from global databases and NutNet experiments to address ecological questions” and “Global drivers of Loss of Biodiversity with Eutrophication”
+* July 2021 Nutrient Network meeting (virtual meeting), presenting “Resistance and resilience to climate extremes under nutrient addition”
+* January 2020 Chen, Q. (organizer)., Snijders, R., Berg, M., Arani, B. A symposium on the occasion of my PhD defense. Presenting “Grazing, biodiversity and humanity” (Qingqing Chen); “Machine learning in Ecology” (Ron Snijders; the Netherlands Organisation for applied scientific research); “Infer ecosystem states and quantify their resilience” (Babak M. S. Arani; University of Groningen); “Long-term effects of grazing and mowing on Orchestia and Coleoptera” (Matty Berg; Vrije Universiteit Amsterdam).
+* October 2017 “Herdershut Open day”, presenting “The importance of fencing” to conservation managers and local villagers, Schiermonnikoog, the Netherlands.
+* October 2017	Coastal ecology workshop, present a poster “The importance of fencing”, Yerseke, the Netherlands. 
+* October 2016 Coastal ecology workshop, oral presentation “Does “succession” take place in a plant population?”, Fuhlendorf at the Baltic Sea in Germany. 
+
+
+
 <!--
 {% if site.talkmap_link == true %}
 
